@@ -1,5 +1,5 @@
-# My-ToDo-preview
-My Awesome Todo web application
+# About My ToDo
+My Awesome Todo is web application for your task
 
 # Site
-If you want see this web program, when go to [Awesome Todo](https://bodamat.github.io/My-ToDo-preview/#/auth).
+If you want see this web program, when go to [this link](https://bodamat.github.io/My-ToDo-preview/#/auth).
